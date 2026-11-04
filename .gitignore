@@ -1,0 +1,9 @@
+# أسرار — لا ترفعها أبداً إلى GitHub
+.dev.vars
+.env
+.env.*
+# ملفات الأدوات
+node_modules/
+.wrangler/
+.DS_Store
+Thumbs.db
